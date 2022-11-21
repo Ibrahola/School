@@ -124,5 +124,13 @@ h1 {
     body {
         background: green;
     }
+    img {
+        height: 100px;
+        width: 100px;
+    }
+    #picture {
+        height: 75px;
+        width: 100px;
+    }
     
 }
