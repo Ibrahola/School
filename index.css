@@ -113,6 +113,12 @@ h1 {
     margin-right: auto;
 }
 
+a:hover {
+    text-decoration: underline;
+    color:red;
+    transition: 2s;
+}
+
 
 @media screen and (min-width: 400px) {
     * {
