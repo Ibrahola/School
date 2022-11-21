@@ -129,5 +129,8 @@ h1 {
         height: 75px;
         width: 100px;
     }
+    .front {
+        font-size: 10px;
+    }
     
 }
